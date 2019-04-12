@@ -35,6 +35,9 @@ config.
 </script>
 ```
 
+If you are using a paid account, **make sure to uncomment the line with the appId and enter the ID!**
+see: https://community.algolia.com/docsearch/run-your-own.html#integration
+
 ## Testing
 
 If you're eager to test DocSearch but don't have any credentials of your own
